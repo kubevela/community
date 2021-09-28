@@ -49,6 +49,7 @@ Reviewers are able to review code for quality and correctness. They are knowledg
   - **Primary reviewer for 10 effort/medium labeled PRs to the codebase**
   - **Primary reviewer for 5 effort/large labeled PRs to the codebase**
 - Knowledgeable about the codebase
+- Triage issue into further steps
 - **Sponsored by 2 approver**
    - **With no objections from other approvers**
    - Done through PR to update the OWNERS file
@@ -73,6 +74,7 @@ Also they are on charge of certain product area in KubeVela.
 
 ### Responsibilities and privileges
 - Demonstrate sound technical judgement
+- Triage issue into further steps
 - Responsible for project quality control
    - Focus on holistic acceptance of contribution such as dependencies with other features, backwards / forwards compatibility, API and flag definitions, etc
 - Expected to be responsive to review requests
