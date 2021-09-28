@@ -1,6 +1,6 @@
-# Community Membership
+# Community Membership [Draft]
 
-
+*This doc is in pre-release, it will be offcially released after 3 months from the date of its first commit*
 
 All contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
