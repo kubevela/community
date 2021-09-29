@@ -9,7 +9,7 @@ KubeVela.
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
-| Member | Active contributor in the community | have made multiple contributions to the project | OAM GitHub org member|
+| Member | Active participation in the community | have made multiple contributions to the project | OAM GitHub org member|
 | Reviewer | Review contributions |  Active contributor and/or code reviewer. Responsible for major features | [OWNERS] file reviewer entry |
 | Approver | Contributions acceptance approval| Highly experienced active reviewer and contributor. On charge of certain product area| [OWNERS] file approver entry|
 | Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS] file maintainer entry |
