@@ -4,7 +4,7 @@
 
 All contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
-This doc outlines the various responsibilities of contributor roles in
+This tabel outlines the various responsibilities of contributor roles in
 KubeVela.
 
 | Role | Responsibilities | Requirements | Defined by |
