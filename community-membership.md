@@ -8,9 +8,9 @@ KubeVela.
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
 | Member | Active participation in the community | have made multiple contributions to the project | OAM GitHub org member|
-| Reviewer | Review contributions |  Active contributor and/or code reviewer. Responsible for major features | [OWNERS_ALIASES] file reviewer entry |
-| Approver | Approve and commit contributions | Highly experienced active reviewer and contributor. On charge of certain project domain(s) | [OWNERS_ALIASES] file approver entry|
-| Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS_ALIASES] file maintainer entry |
+| Reviewer | Review contributions |  Active contributor and/or code reviewer. Responsible for major features | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file reviewer entry |
+| Approver | Approve and commit contributions | Highly experienced active reviewer and contributor. On charge of certain project domain(s) | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file approver entry|
+| Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file maintainer entry |
 
 A new contributor's role should be promoted in sequence, beginning with a member until to be a maintainer.
 
