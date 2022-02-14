@@ -10,9 +10,9 @@ KubeVela.
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
 | Member | Active participation in the community | have made multiple contributions to the project | OAM GitHub org member|
-| Reviewer | Review contributions |  Active contributor and/or code reviewer. Responsible for major features | [OWNERS] file reviewer entry |
-| Approver | Approve and commit contributions | Highly experienced active reviewer and contributor. On charge of certain project domain(s) | [OWNERS] file approver entry|
-| Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS] file maintainer entry |
+| Reviewer | Review contributions |  Active contributor and/or code reviewer. Responsible for major features | [OWNERS_ALIASES] file reviewer entry |
+| Approver | Approve and commit contributions | Highly experienced active reviewer and contributor. On charge of certain project domain(s) | [OWNERS_ALIASES] file approver entry|
+| Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS_ALIASES] file maintainer entry |
 
 A new contributor's role should be promoted in sequence, beginning with a member until to be a maintainer.
 
@@ -20,10 +20,7 @@ A new contributor's role should be promoted in sequence, beginning with a member
 Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to remain active contributors to the community.
 
 ### Requirements
-- Have made multiple contributions to the project or community. Fulfill one criteria of below will do:
-  - **Submitted 10 coding PRs those labeled as effort/small**. 
-  - **Submitted 5 coding PRs those labeled as effort/medium**. 
-  - **Submitted 2 coding PRs those labeled as effort/large**. 
+- Have made multiple contributions to the project or community. **Submitted 1 coding PRs or 3 doc PRs**. 
 - Contribution may include, but is not limited to:
    - Authoring or reviewing PRs on GitHub
    - Filing or commenting on issues on GitHub
@@ -44,10 +41,7 @@ Members are continuously active contributors in the community. They can have iss
 Reviewers are able to review code for quality and correctness. They are knowledgeable about both the codebase and software engineering principles. They are owners on certion major features.
 
 ### Requirements
-- reviewing to fulfill one criteria of below will do:
-  - **Primary reviewer for 20 effort/small labeled PRs to the codebase**
-  - **Primary reviewer for 10 effort/medium labeled PRs to the codebase**
-  - **Primary reviewer for 5 effort/large labeled PRs to the codebase**
+- **Primary reviewer for at least 3 PRs to the codebase**
 - Knowledgeable about the codebase
 - Triage issue into further steps
 - **Sponsored by 2 approver**
