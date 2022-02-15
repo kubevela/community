@@ -36,8 +36,7 @@ Members are continuously active contributors in the community. They can have iss
    - Addresses bugs or issues discovered after code is accepted
 
 ## Reviewer
-Reviewers are able to review code for quality and correctness. They are knowledgeable about both the codebase and software engineering principles. They are owners on certion major features.
-
+Reviewers are able to review code for quality and correctness. They are knowledgeable about both the codebase and software engineering principles.
 ### Requirements
 - **Primary reviewer for at least 3 PRs to the codebase**
 - Knowledgeable about the codebase
