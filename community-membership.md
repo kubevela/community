@@ -5,6 +5,8 @@ All contributors should be welcomed to the community by existing members, helped
 This table outlines the various responsibilities of contributor roles in
 KubeVela.
 
+The Apache way says Community Over Code. Although KubeVela is a CNCF/Linux project, we possess a strong resonance to it. To seconde and stretch this merit deeper, we regard non-coding contribution as equally important for the community's very existence and it future growth. Current core community members will be deciding whereas these non-coding contribution is valid enough to be a Member, Reviewer, Approver or Maintainer.
+
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
 | Member | Active participation in the community | have made multiple contributions to the project | OAM GitHub org member|
@@ -12,13 +14,13 @@ KubeVela.
 | Approver | Approve and commit contributions | Highly experienced active reviewer and contributor. On charge of certain project domain(s) | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file approver entry|
 | Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file maintainer entry |
 
-A new contributor's role should be promoted in sequence, beginning with a member until to be a maintainer.
-
 ## Member
 Members are continuously active contributors in the community. They can have issues and PRs assigned to them. Members are expected to remain active contributors to the community.
 
 ### Requirements
-- Have made multiple contributions to the project or community. **Submitted 1 coding PRs or 3 doc PRs**. 
+- Have made multiple contributions to the project or community.
+- **Submitted 1 coding PRs or 3 doc PRs**.
+- **Equivalent non-coding devotion, such as Spec model contribution or community management or developer advocate and etc.**
 - Contribution may include, but is not limited to:
    - Authoring or reviewing PRs on GitHub
    - Filing or commenting on issues on GitHub
@@ -39,6 +41,7 @@ Members are continuously active contributors in the community. They can have iss
 Reviewers are able to review code for quality and correctness. They are knowledgeable about both the codebase and software engineering principles.
 ### Requirements
 - **Primary reviewer for at least 3 PRs to the codebase**
+- **Equivalent non-coding devotion, such as Spec model contribution or community management or developer advocate and etc.**
 - Knowledgeable about the codebase
 - Triage issue into further steps
 - **Sponsored by 2 approver**
@@ -59,6 +62,7 @@ Also they are on charge of certain product area in KubeVela.
 
 ### Requirements
 - **Primary reviewer for 20 substantial effort/large labled PRs to the codebase**
+- **Equivalent non-coding devotion, such as Spec model contribution or community management or developer advocate and etc.**
 - **Sponsored by 2 maintainer**
    - **With no objections from other maintainer**
    - Done through PR to update the OWNERS file
@@ -80,6 +84,7 @@ The Maintainers are typically limited to a relatively small group of decision ma
    - Authoring and reviewing proposals
    - Initiating, contributing and resolving discussions (emails, GitHub issues, meetings)
    - Identifying subtle or complex issues in designs and implementation PRs
+- **Equivalent non-coding devotion, such as Spec model contribution or community management or developer advocate and etc.**
 - **Sponsored by majority vote(2/3) of maintainers**
 
 ### Responsibilities and privileges
