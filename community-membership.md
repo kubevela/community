@@ -5,7 +5,7 @@ All contributors should be welcomed to the community by existing members, helped
 This table outlines the various responsibilities of contributor roles in
 KubeVela.
 
-The Apache way says Community Over Code. Although KubeVela is a CNCF/Linux project, we possess a strong resonance to it. To second and stretch this merit deeper, we regard non-coding contribution as equally important for the community's very existence and it future growth. Current core community members will be deciding whereas these non-coding contribution is valid enough to be a Member, Reviewer, Approver or Maintainer.
+The Apache way says Community Over Code. Although KubeVela is a CNCF/Linux project, we possess a strong resonance to it. To second and stretch this merit deeper, we regard non-coding contribution as equally important for the community's very existence and its future growth. Current core community members will be deciding whereas these non-coding contribution is valid enough to be a Member, Reviewer, Approver or Maintainer.
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
