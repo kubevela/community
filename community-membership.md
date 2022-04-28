@@ -9,7 +9,7 @@ The Apache way says Community Over Code. Although KubeVela is a CNCF/Linux proje
 
 | Role | Responsibilities | Requirements | Defined by |
 | -----| ---------------- | ------------ | -------|
-| Member | Active participation in the community | have made multiple contributions to the project | OAM GitHub org member|
+| Member | Active participation in the community | have made multiple contributions to the project | KubeVela GitHub org member|
 | Reviewer | Review contributions |  Active contributor and/or code reviewer. Responsible for major features | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file reviewer entry |
 | Approver | Approve and commit contributions | Highly experienced active reviewer and contributor. On charge of certain project domain(s) | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file approver entry|
 | Maintainer | Set direction and priorities | Demonstrated responsibility and excellent technical judgement | [OWNERS_ALIASES](https://github.com/oam-dev/kubevela/blob/master/OWNERS_ALIASES) file maintainer entry |
@@ -30,7 +30,7 @@ Members are continuously active contributors in the community. They can have iss
    - Done through a issue to request for joining the org
 
 ### Responsibilities and privileges
-- **Be a Member of OAM GitHub organization**
+- **Be a Member of KubeVela GitHub organization**
 - Responsive to issues and PRs assigned to them
 - Active owner of code they have contributed (unless ownership is explicitly transferred)
    - Code is well tested
@@ -105,14 +105,14 @@ participation. It is inevitable that people's focuses will change over time and
 they are not expected to be actively contributing forever.
 
 Therefore members with an extended period away from the project with no activity
-will be removed from the OAM Github Organizations and will be required to
+will be removed from the KubeVela Github Organizations and will be required to
 go through the org membership process again after re-familiarizing themselves
 with the current state.
 
 
 ### How inactivity is measured
 
-Inactive members are defined as members of one of the OAM Organizations
+Inactive members are defined as members of one of the KubeVela Organizations
 with **no** contributions across any organization within **6 months**. This is
 measured by the CNCF [DevStats project].
 
