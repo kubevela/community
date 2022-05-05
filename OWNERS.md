@@ -5,7 +5,7 @@
 Reviewers apply to all KubeVela repositories.
 
 - Herman Zhu (Independent) @Ghostbaby
-- StevenLeiZhang (JD.com) @StevenLeiZhang
+- Lei Zhang (JD.com) @StevenLeiZhang
 - chwetion (Harmony Cloud) @chwetion
 - Min Kim (Alibaba) @yue9944882
 - Xiaobin Zhu (Independent) @zxbyoyoyo
@@ -34,7 +34,7 @@ Maintainers apply to all KubeVela repositories.
 - Jianbo Sun (Alibaba) @wonderflow
 - Hongchao Deng (Independent) @hongchaodeng
 - Yue Wang (Independent) @captainroy-hy
-- Lei Zhang (Microsoft) @resouer
+- Lei Zhang (Independent) @resouer
 - Qingguo Zeng (Alibaba) @barnettZQG
 - Jian Li (Alibaba) @leejanee
 - Zhengxi Zhou (Alibaba) @zzxwill

@@ -51,9 +51,9 @@ To accomodate different timezones and languages, we schedule community calls at 
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723<br>**Password:** MVhCZnNub2t0R3BmMUNEWE9vendLUT09
+| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723<br>**Password:** MVhCZnNub2t0R3BmMUNEWE9vendLUT09<br>[Direct Link](https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09)
 | 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs
-| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406<br>**Password:** OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09
+| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406<br>**Password:** OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09<br>[Direct Link](https://us02web.zoom.us/j/88035629406?pwd=OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09)
 | 🎥 Meeting Recordings (*Chinese*) | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207
 
 
