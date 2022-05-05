@@ -20,9 +20,9 @@ This page contains a list of organizations who are using KubeVela in production 
 | [Bytedance](https://www.bytedance.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [理想汽车](https://www.lixiang.com/)  | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [阜博集团](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://kubevela.io/blog/2021/10/10/kubevela-gitops) |
+| [Forchange](https://www.forchange.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
-| [Forchange](https://www.forchange.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [灵雀云](https://www.alauda.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [智领云科技](https://www.linktimecloud.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [树根互联](https://www.rootcloud.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
