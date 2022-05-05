@@ -3,9 +3,9 @@
 Welcome to the KubeVela community. This is the starting point for becoming a contributor, improving the code and docs, giving presentations and all the goodness of helping out on the project. We are a friendly, collaborative group and look forward to working together.
 
 - [Introduction](#introduction)
-- [KubeVela authors](#kubeVela-authors)
+- [KubeVela authors](#kubevela-authors)
 - [Community engagements](#community-meetings)
-- [How can I get involved?](#how-can-i-get-involved?)
+- [How can I get involved?](#how-can-i-get-involved)
 - [Questions and issues](#questions-and-issues)
 
 Other Documents
@@ -23,7 +23,7 @@ Visit [kubevela.io](https://kubevela.io/) for information about KubeVela.
 
 ## KubeVela authors
 
-KubeVela is an open source project with an active development community. The project was evolved from [oam-kubernetes-runtime](https://github.com/crossplane/oam-kubernetes-runtime) and initialized by the open source community with [bootstrap contributors](https://github.com/kubevela/kubevela/blob/master/OWNERS_ALIASES) from 8+ different organizations.
+KubeVela is an open source project with an active development community. The project was evolved from [oam-kubernetes-runtime](https://github.com/crossplane/oam-kubernetes-runtime) and initialized by the open source community with [bootstrap contributors](https://github.com/kubevela/community/blob/main/OWNERS.md#bootstrap-contributors) from 8+ different organizations.
 
 ## Communication
 
