@@ -19,7 +19,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [NetEase Games](http://neteasegames.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Bytedance](https://www.bytedance.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [理想汽车](https://www.lixiang.com/)  | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
-| [阜博集团](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [阜博集团](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://kubevela.io/blog/2021/10/10/kubevela-gitops) |
 | [Springer Nature](https://www.springernature.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [Forchange](https://www.forchange.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
@@ -33,9 +33,9 @@ This page contains a list of organizations who are using KubeVela in production 
 | [育儿网](http://www.ci123.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [中电万维信息技术有限责任公司](http://www.wanwei.com.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | 木木森有限责任公司 | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [fiberhome](https://www.fiberhome.com/default.aspx) ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [智慧芽](https://www.zhihuiya.com/) ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [Asiainfo.com](https://www.asiainfo.com/en_us/index.html) ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [Guidewire](https://www.guidewire.com/) ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [digital china](https://www.digitalchina.com/) ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [HSBC](https://www.hsbc.com/) ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [fiberhome](https://www.fiberhome.com/default.aspx) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [智慧芽](https://www.zhihuiya.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [Asiainfo.com](https://www.asiainfo.com/en_us/index.html) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [Guidewire](https://www.guidewire.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [digital china](https://www.digitalchina.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [HSBC](https://www.hsbc.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
