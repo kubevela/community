@@ -16,6 +16,7 @@ Reviewers apply to all KubeVela repositories.
 - Xiangbo Ma (China Merchants Bank) @fourierr
 - Kunshuai Zhu (Independent) @JooKS-me
 - Diego Pinheiro (Independent) @s4rd1nh4
+- Xueliang Yang (China Merchants Bank) @oeular
 
 ## Approvers
 
