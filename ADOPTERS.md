@@ -22,6 +22,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [理想汽车](https://www.lixiang.com/)  | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [阜博集团](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://kubevela.io/blog/2021/10/10/kubevela-gitops) |
 | [Forchange](https://www.forchange.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [育儿网](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [灵雀云](https://www.alauda.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
@@ -31,7 +32,6 @@ This page contains a list of organizations who are using KubeVela in production 
 | [iQiyi 爱奇艺](https://www.iqiyi.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [招银云创](https://www.cmbyc.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [赛凌科技](https://www.xshoppy.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [育儿网](http://www.ci123.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [中电万维信息技术有限责任公司](http://www.wanwei.com.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | 木木森有限责任公司 | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [fiberhome](https://www.fiberhome.com/default.aspx) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
