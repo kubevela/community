@@ -26,20 +26,19 @@ Reviewers apply to all KubeVela repositories.
 - Fog Dong (Alibaba) @FogDong (kubevela)
 - Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
+- Jian Li (Alibaba) @leejanee (kubevela）
 
 ## Maintainers
 
 Maintainers apply to all KubeVela repositories.
 
-- Da Yin (Alibaba) @Somefive
 - Jianbo Sun (Alibaba) @wonderflow
 - Hongchao Deng (Independent) @hongchaodeng
+- Zhengxi Zhou (Alibaba) @zzxwill
 - Yue Wang (Tencent) @captainroy-hy
 - Qingguo Zeng (Alibaba) @barnettZQG
-- Jian Li (Alibaba) @leejanee
-- Zhengxi Zhou (Alibaba) @zzxwill
 - Daniel Higuero (NAPPTIVE) @dhiguero
-
+- Da Yin (Alibaba) @Somefive
 
 ## Emeritus Members
 
