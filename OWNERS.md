@@ -34,17 +34,17 @@ Maintainers apply to all KubeVela repositories.
 - Da Yin (Alibaba) @Somefive
 - Jianbo Sun (Alibaba) @wonderflow
 - Hongchao Deng (Independent) @hongchaodeng
-- Yue Wang (Independent) @captainroy-hy
-- Lei Zhang (Independent) @resouer
+- Yue Wang (Tencent) @captainroy-hy
 - Qingguo Zeng (Alibaba) @barnettZQG
 - Jian Li (Alibaba) @leejanee
 - Zhengxi Zhou (Alibaba) @zzxwill
-- Wei Duan (Alibaba) @BinaryHB0916
 - Daniel Higuero (NAPPTIVE) @dhiguero
 
 
 ## Emeritus Members
 
+- @BinaryHB0916
+- @resouer
 - @ryanzhang-oss
 - @Fei-Guo
 - @szihai
