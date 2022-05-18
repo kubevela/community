@@ -8,14 +8,14 @@ Reviewers apply to all KubeVela repositories.
 - Lei Zhang (JD.com) @StevenLeiZhang
 - chwetion (Harmony Cloud) @chwetion
 - Min Kim (Alibaba) @yue9944882
-- Xiaobin Zhu (Independent) @zxbyoyoyo
+- Xiaobin Zhu (Lixiang motor) @zxbyoyoyo
 - Reeta Singh (Twitter) @reetasingh
 - Wangwang (Youzan) @wangwang
 - Evan Li (Didi) @evanli18
 - Sunghoon Kang (LINE) @devholic
 - Xiangbo Ma (China Merchants Bank) @fourierr
-- Kunshuai Zhu (Student) @JooKS-me
-- Diego Pinheiro (Independent) @s4rd1nh4
+- Kunshuai Zhu (Student from Northeastern University) @JooKS-me
+- Diego Pinheiro (Iti Itaú) @s4rd1nh4
 - Xueliang Yang (China Merchants Bank) @oeular
 
 ## Approvers
