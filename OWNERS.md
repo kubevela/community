@@ -4,18 +4,18 @@
 
 Reviewers apply to all KubeVela repositories.
 
-- Herman Zhu (Independent) @Ghostbaby
+- Herman Zhu (SHEIN) @Ghostbaby
 - Lei Zhang (JD.com) @StevenLeiZhang
 - chwetion (Harmony Cloud) @chwetion
 - Min Kim (Alibaba) @yue9944882
-- Xiaobin Zhu (Independent) @zxbyoyoyo
+- Xiaobin Zhu (Li Auto) @zxbyoyoyo
 - Reeta Singh (Twitter) @reetasingh
-- Wangwang (Independent) @wangwang
-- Evan Li (Independent) @evanli18
+- Wangwang (Youzan) @wangwang
+- Evan Li (Didi) @evanli18
 - Sunghoon Kang (LINE) @devholic
 - Xiangbo Ma (China Merchants Bank) @fourierr
-- Kunshuai Zhu (Independent) @JooKS-me
-- Diego Pinheiro (Independent) @s4rd1nh4
+- Kunshuai Zhu (China Northeastern University) @JooKS-me
+- Diego Pinheiro (Iti Itaú) @s4rd1nh4
 - Xueliang Yang (China Merchants Bank) @oeular
 
 ## Approvers
@@ -73,3 +73,4 @@ Thank you for bootstrapping KubeVela at the very early stage!
 - @woshilanren11
 - @hanxie-crypto
 - @zzxwill
+
