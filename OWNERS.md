@@ -17,6 +17,7 @@ Reviewers apply to all KubeVela repositories.
 - Kunshuai Zhu (China Northeastern University) @JooKS-me
 - Diego Pinheiro (Iti Itaú) @s4rd1nh4
 - Xueliang Yang (China Merchants Bank) @oeular
+- leason (Youzan) @leason00
 
 ## Approvers
 
