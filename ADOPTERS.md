@@ -18,7 +18,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [HarmonyCloud(谐云)](http://www.harmonycloud.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [deepexi](https://www.deepexi.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [NetEase Games](http://neteasegames.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
-| [Bytedance](https://www.bytedance.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [Bytedance](https://www.bytedance.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [KubeCon EU Presentation](https://static.sched.com/hosted_files/kccnceu2022/eb/KubeCon_EU_2022_Presentation_Production_scale_containerized_game_platform_practice_in_ByteDance.pdf) |
 | [理想汽车](https://www.lixiang.com/)  | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [阜博集团](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://kubevela.io/blog/2021/10/10/kubevela-gitops) |
 | [Forchange](https://www.forchange.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
