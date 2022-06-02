@@ -5,7 +5,6 @@
 Reviewers apply to all KubeVela repositories.
 
 - Herman Zhu (SHEIN) @Ghostbaby
-- Lei Zhang (JD.com) @StevenLeiZhang
 - chwetion (Harmony Cloud) @chwetion
 - Min Kim (Alibaba) @yue9944882
 - Xiaobin Zhu (Li Auto) @zxbyoyoyo
@@ -28,6 +27,7 @@ Reviewers apply to all KubeVela repositories.
 - Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
 - Jian Li (Alibaba) @leejanee (kubevela）
+- Lei Zhang (JD.com) @StevenLeiZhang (kubevela）
 
 ## Maintainers
 
