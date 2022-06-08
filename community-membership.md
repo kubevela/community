@@ -28,7 +28,7 @@ Members are continuously active contributors in the community. They can have iss
    - **With no objections from other reviewers**
    - Done through an issue to request joining the org
 
-### Responsibilities and privileges:
+### Responsibilities and privileges
 - **Being a Member of KubeVela GitHub organization**
 - Responsive to issues and PRs assigned to them
 - Active owner of the code they have contributed (unless ownership is explicitly transferred)
@@ -52,7 +52,7 @@ Reviewers are able to review code for quality and correctness. They are knowledg
    - Focus on code quality and correctness, including testing and factoring
    - May also review for more holistic issues, but not a requirement
 - Expected to be responsive to review requests
-- Assigned PRs to review related to reviewer's expertise 
+- Assigned PRs to review related to reviewer's expertise
 - Assigned test bugs related to reviewer's expertise
 
 ## Approver
@@ -60,7 +60,7 @@ Code approvers are able to both review and approve code contributions. While cod
 They are also on charge of certain areas in KubeVela.
 
 ### Requirements
-- **Primary reviewer for 20 substantial effort/large labeled PRs to the codebase**
+- **Primary reviewer for 20 substantial effort/large labelled PRs to the codebase**
 - **Equivalent non-coding devotion, such as Spec model contribution, community management, developer advocate, and etc.**
 - **Sponsored by 2 maintainers**
    - **With no objections from other maintainer**
