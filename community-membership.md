@@ -2,7 +2,7 @@
 
 All contributors should be welcomed to the community by existing members, helped with PR workflow, and directed to relevant documentation and communication channels.
 
-This table outlines the responsibilities of various contributor roles in KubeVela.
+This table outlines the various responsibilities of contributor roles in KubeVela.
 
 The Apache way says Community Over Code. Although KubeVela is a CNCF/Linux project, we possess a strong resonance to it. To second and stretch this merit deeper, we regard non-coding contribution as equally important to the community's very existence and its future growth. Current core community members will be deciding whereas these non-coding contribution is valid enough to be a Member, Reviewer, Approver or Maintainer.
 
@@ -20,12 +20,12 @@ Members are continuously active contributors in the community. They can have iss
 - Have made multiple contributions to the project or community.
 - **Submitted 1 coding PR or 3 doc PRs**.
 - **Equivalent non-coding devotion, such as Spec model contribution, community management, developer advocate, and etc.**
-- Contributions include, but not limited to:
+- Contribution may include, but is not limited to:
    - Authoring or reviewing PRs on GitHub
    - Filing or commenting on issues on GitHub
    - Contributing to community discussions (e.g. meetings, discussion groups)
 - **Sponsored by 2 reviewers**
-   - **With no objection from other reviewers**
+   - **With no objections from other reviewers**
    - Done through an issue to request joining the org
 
 ### Responsibilities and privileges:
@@ -44,16 +44,16 @@ Reviewers are able to review code for quality and correctness. They are knowledg
 - Knowledgeable about the codebase
 - Triage issue into further steps
 - **Sponsored by 2 approvers**
-   - **With no objection from other approvers**
+   - **With no objections from other approvers**
    - Done through PR to update the OWNERS file
 
 ### Responsibilities and privileges
 - Responsible for project quality control
    - Focus on code quality and correctness, including testing and factoring
-   - May also review for more holistic issues, but that's not a requirement
+   - May also review for more holistic issues, but not a requirement
 - Expected to be responsive to review requests
-- Assigned PRs related to reviewer's expertise to review
-- Assigned bugs related to reviewer's expertise to test
+- Assigned PRs to review related to reviewer's expertise 
+- Assigned test bugs related to reviewer's expertise
 
 ## Approver
 Code approvers are able to both review and approve code contributions. While code review is focused on code quality and correctness, approval is focused on holistic acceptance of a contribution, including backwards / forwards compatibility, adhering to API and flag conventions, subtle performance and correctness issues, interactions with other parts of the system, and etc.
@@ -63,7 +63,7 @@ They are also on charge of certain areas in KubeVela.
 - **Primary reviewer for 20 substantial effort/large labeled PRs to the codebase**
 - **Equivalent non-coding devotion, such as Spec model contribution, community management, developer advocate, and etc.**
 - **Sponsored by 2 maintainers**
-   - **With no objection from other maintainer**
+   - **With no objections from other maintainer**
    - Done through PR to update the OWNERS file
 
 ### Responsibilities and privileges
@@ -77,9 +77,9 @@ They are also on charge of certain areas in KubeVela.
 ## Maintainer
 ### Requirements
 The Maintainers are typically limited to a relatively small group of decision makers.
-- Deep understanding of the technical goals and directions
+- Deep understanding of the technical goals and direction
 - Deep understanding of the technical domain
-- Sustained contributions to design and directions by doing all of:
+- Sustained contributions to design and direction by doing all of:
    - Authoring and reviewing proposals
    - Initiating, contributing and resolving discussions (emails, GitHub issues, meetings)
    - Identifying subtle or complex issues in designs and their implementation PRs
@@ -88,11 +88,11 @@ The Maintainers are typically limited to a relatively small group of decision ma
 
 ### Responsibilities and privileges
 - Make and approve technical design decisions
-- Set technical directions and priorities
+- Set technical direction and priorities
 - Define milestones and releases.
 - Mentor and guide approvers, reviewers, and members
 - Ensure continued health of project
-   - Adequate test coverage to confidently release new versions
+   - Adequate test coverage to confidently release
    - Tests are passing reliably (i.e. not flaky) and are fixed when they fail
 - Ensure a healthy process for discussions and decision-making is in place.
 - Work with other owners to maintain the project's overall health and success holistically
