@@ -43,3 +43,4 @@ This page contains a list of organizations who are using KubeVela in production 
 | [digital china](https://www.digitalchina.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [HSBC](https://www.hsbc.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
+| [T3出行](https://www.t3go.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
