@@ -17,6 +17,7 @@ Reviewers apply to all KubeVela repositories.
 - Diego Pinheiro (Iti Itaú) @s4rd1nh4
 - Xueliang Yang (China Merchants Bank) @oeular
 - leason (Youzan) @leason00
+- charlie0129 (Independent) @charlie0129
 
 ## Approvers
 
