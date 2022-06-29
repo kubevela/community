@@ -18,6 +18,7 @@ Reviewers apply to all KubeVela repositories.
 - Xueliang Yang (China Merchants Bank) @oeular
 - leason (Youzan) @leason00
 - charlie0129 (Independent) @charlie0129
+- Arhell (Independent) @Arhell
 
 ## Approvers
 
