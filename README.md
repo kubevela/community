@@ -51,24 +51,25 @@ To accomodate different timezones and languages, we schedule community calls at 
 
 | Asset | Link        |
 |:-----------|:------------|
-| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723<br>**Password:** MVhCZnNub2t0R3BmMUNEWE9vendLUT09<br>[Direct Link](https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09)
-| 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs
-| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406<br>**Password:** OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09<br>[Direct Link](https://us02web.zoom.us/j/88035629406?pwd=OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09)
+| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09
+| 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs <br> **Videos:** https://www.youtube.com/channel/UCSCTHhGI5XJ0SEhDHVakPAA/videos
+| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406?pwd=OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09
 | 🎥 Meeting Recordings (*Chinese*) | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207
 
 
 **Upcoming meetings**:
 
-- (*English*) Tuesday May 10, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220510T0730&p1=234)
-- (*Chinese*) Tuesday May 17, 2022 19:00 PM China Standard Time (CST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220517T04&p1=234)
-- (*English*) Tuesday May 24, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220524T0730&p1=234)
-- (*Chinese*) Tuesday May 31, 2022 19:00 PM China Standard Time (CST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220531T04&p1=234)
-- (*English*) Tuesday Jun 7, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220607T0730&p1=234)
-- (*Chinese*) Tuesday Jun 14, 2022 19:00 PM China Standard Time (CST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220614T04&p1=234)
-- (*English*) Tuesday Jun 21, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220621T0730&p1=234)
-- (*Chinese*) Tuesday Jun 28, 2022 19:00 PM China Standard Time (CST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220628T04&p1=234)
 - (*English*) Tuesday Jul 5, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220705T0730&p1=234)
-
+- (*English*) Tuesday Jul 12, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220712T0730&p1=234)
+- (*English*) Tuesday Jul 19, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220719T0730&p1=234)
+- (*English*) Tuesday Jul 26, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220726T0730&p1=234)
+- (*English*) Tuesday Aug 2, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220802T0730&p1=234)
+- (*English*) Tuesday Aug 9, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220809T0730&p1=234)
+- (*English*) Tuesday Aug 16, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220816T0730&p1=234)
+- (*English*) Tuesday Aug 23, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220823T0730&p1=234)
+- (*English*) Tuesday Aug 30, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220830T0730&p1=234)
+- (*English*) Tuesday Sep 6, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220906T0730&p1=234)
+- (*English*) Tuesday Sep 13, 2022 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20220913T0730&p1=234)
 
 ### KubeVela blog
 
