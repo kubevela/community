@@ -25,7 +25,6 @@ Reviewers apply to all KubeVela repositories.
 
 - Zhongpei Qiao (Alibaba) @chivalryq (velad)
 - Xudong Guo (JiHu GitLab) @sunny0826 (kubevela.io)
-- hanxie (Alibaba) @hanxie-crypto (velaux)
 - Fog Dong (Alibaba) @FogDong (kubevela)
 - Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
@@ -37,15 +36,16 @@ Reviewers apply to all KubeVela repositories.
 Maintainers apply to all KubeVela repositories.
 
 - Jianbo Sun (Alibaba) @wonderflow
-- Hongchao Deng (Independent) @hongchaodeng
-- Zhengxi Zhou (Alibaba) @zzxwill
-- Yue Wang (Tencent) @captainroy-hy
+- Zhengxi Zhou (Independent) @zzxwill
 - Qingguo Zeng (Alibaba) @barnettZQG
 - Daniel Higuero (NAPPTIVE) @dhiguero
 - Da Yin (Alibaba) @Somefive
 
 ## Emeritus Members
 
+- @hanxie-crypto
+- @hongchaodeng
+- @captainroy-hy
 - @BinaryHB0916
 - @resouer
 - @ryanzhang-oss
