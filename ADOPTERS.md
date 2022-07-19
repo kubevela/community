@@ -24,6 +24,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [Forchange](https://www.forchange.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [育儿网](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [小鹏汽车](https://www.xiaopeng.com/) ([XPeng Motors](https://heyxpeng.com/))| ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [HUOLALA](https://www.huolala.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
@@ -42,5 +43,4 @@ This page contains a list of organizations who are using KubeVela in production 
 | [Guidewire](https://www.guidewire.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [digital china](https://www.digitalchina.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [HSBC](https://www.hsbc.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
-| [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [T3出行](https://www.t3go.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
