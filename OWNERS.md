@@ -40,6 +40,7 @@ Maintainers apply to all KubeVela repositories.
 - Qingguo Zeng (Alibaba) @barnettZQG
 - Daniel Higuero (NAPPTIVE) @dhiguero
 - Da Yin (Alibaba) @Somefive
+- Jiahang Xu (China Merchants Bank) @jefree-cat
 
 ## Emeritus Members
 
