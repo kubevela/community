@@ -9,7 +9,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | Organization | Status | More Information
 | ------------ | ---------| ---------------|
 | [Alibaba Cloud](https://www.aliyun.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [ACK ONE multi-cluster delivery](https://mp.weixin.qq.com/s/7-2TjyOW1-XpPV0CftFXig) |
-| [NAPPTIVE](https://napptive.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [NAPPTIVE](https://napptive.com) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [docs](https://docs.napptive.com/) |
 | [4Paradigm](https://www.4paradigm.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Shein](https://www.shein.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [YOUZAN](https://www.youzan.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
