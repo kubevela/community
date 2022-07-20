@@ -26,6 +26,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [小鹏汽车](https://www.xiaopeng.com/) ([XPeng Motors](https://heyxpeng.com/))| ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [HUOLALA](https://www.huolala.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [亚信科技](https://www.asiainfo.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [灵雀云](https://www.alauda.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
