@@ -17,7 +17,6 @@ Reviewers apply to all KubeVela repositories.
 - Diego Pinheiro (Iti Itaú) @s4rd1nh4
 - Xueliang Yang (China Merchants Bank) @oeular
 - leason (Youzan) @leason00
-- charlie0129 (Independent) @charlie0129
 - Arhell (Independent) @Arhell
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
 
@@ -29,7 +28,8 @@ Reviewers apply to all KubeVela repositories.
 - Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
 - Jian Li (Alibaba) @leejanee (kubevela）
-- Lei Zhang (JD.com) @StevenLeiZhang (kubevela）
+- Lei Zhang (JD.com) @StevenLeiZhang (kubevela)
+- Charlie Chiang (Independent) @charlie0129 (kubevela)
 
 ## Maintainers
 
