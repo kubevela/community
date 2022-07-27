@@ -29,7 +29,7 @@ Reviewers apply to all KubeVela repositories.
 - Yang Song (Alibaba) @yangsoon (kubevela）
 - Jian Li (Alibaba) @leejanee (kubevela）
 - Lei Zhang (JD.com) @StevenLeiZhang (kubevela)
-- Charlie Chiang (Independent) @charlie0129 (kubevela)
+- Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
 
 ## Maintainers
 
