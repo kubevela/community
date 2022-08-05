@@ -24,13 +24,13 @@ This page contains a list of organizations who are using KubeVela in production 
 | [Forchange](https://www.forchange.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [育儿网](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [小鹏汽车](https://www.xiaopeng.com/) ([XPeng Motors](https://heyxpeng.com/))| ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
-| [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [video](https://www.bilibili.com/video/BV17U4y1q7pN) |
 | [HUOLALA](https://www.huolala.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [亚信科技](https://www.asiainfo.com/)/[Asiainfo.com](https://www.asiainfo.com/en_us/index.html) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | | 
 | [智领云科技](https://www.linktimecloud.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat)  | |
 | [招银云创](https://www.cmbyc.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
-| [Intuit](https://www.intuit.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [link](https://community.cncf.io/events/details/cncf-cloud-native-scale-presents-building-an-application-centric-kubernetes-platform-for-enterprise-scale-w-intuit/) |
+| [Intuit](https://www.intuit.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | [link](https://community.cncf.io/events/details/cncf-cloud-native-scale-presents-building-an-application-centric-kubernetes-platform-for-enterprise-scale-w-intuit/) |
 | [lilithgame](https://www.lilith.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | | 
 | [灵雀云](https://www.alauda.cn/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
 | [树根互联](https://www.rootcloud.com/) | ![testing](https://img.shields.io/badge/-development%20&%20testing-green?style=flat) | |
