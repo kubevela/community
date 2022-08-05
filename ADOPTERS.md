@@ -24,7 +24,7 @@ This page contains a list of organizations who are using KubeVela in production 
 | [Forchange](https://www.forchange.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [育儿网](http://www.ci123.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [小鹏汽车](https://www.xiaopeng.com/) ([XPeng Motors](https://heyxpeng.com/))| ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
-| [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
+| [招商银行/China Merchants Bank](https://www.cmbchina.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | [video](https://www.bilibili.com/video/BV17U4y1q7pN) |
 | [HUOLALA](https://www.huolala.cn/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [亚信科技](https://www.asiainfo.com/)/[Asiainfo.com](https://www.asiainfo.com/en_us/index.html) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | |
 | [Springer Nature](https://www.springernature.com/) | ![production](https://img.shields.io/badge/-production-blue?style=flat) | | 
