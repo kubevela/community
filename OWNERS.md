@@ -14,7 +14,7 @@ Reviewers apply to all KubeVela repositories.
 - Sunghoon Kang (LINE) @devholic
 - Xiangbo Ma (China Merchants Bank) @fourierr
 - Kunshuai Zhu (China Northeastern University) @JooKS-me
-- Diego Pinheiro (Iti Itaú) @s4rd1nh4
+- Diego Pinheiro (StackSpot) @s4rd1nh4
 - Xueliang Yang (China Merchants Bank) @oeular
 - leason (Youzan) @leason00
 - Arhell (Independent) @Arhell
