@@ -19,6 +19,7 @@ Reviewers apply to all KubeVela repositories.
 - leason (Youzan) @leason00
 - Arhell (Independent) @Arhell
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
+- Mengnan Han (Independent) @HanMengnan
 
 ## Approvers
 
