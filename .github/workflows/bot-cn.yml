@@ -1,0 +1,47 @@
+# Every day at noon
+name: Weekly Community Call (CN)
+on:
+  schedule:
+    - cron: 0 12 * * 2
+
+jobs:
+  cn-community-cal:
+    name: Community Call Raise CN
+    runs-on: ubuntu-latest
+    steps:
+      - name: Meeting date
+        run: |-
+          if [ $(expr $(date +%W) % 2) -eq 0 ]; then
+            echo "MEETINGDAY=$(date -d "+14 days" +"%b %d, %Y")" >> $GITHUB_ENV
+            echo "MEETINGDAYNUM=$(date -d "+14 days" +"%Y%m%d")" >> $GITHUB_ENV
+          else
+            exit 1
+          fi
+      # Generates and pins new standup issue, closes previous, writes linking comments, and assigns to all assignees in list
+      - name: New standup issue
+        uses: imjohnbo/issue-bot@v3
+        with:
+          labels: "comminity call"
+          title: ${{ env.MEETINGDAY }} Community Meeting Agenda (中文社区会议)
+          body: |-
+            KubeVela Community Meetings
+
+            Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in Q&A with the KubeVela community - all are welcome, and we encourage participation.
+
+            The purpose of this thread is to form a discussion amongst the KubeVela community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
+
+            The conversations in this thread will directly influence the meeting agenda for the community call on Tuesday ${{ env.MEETINGDAY }} 19:00 PM China Standard Time (CST). The meeting agenda will be finalized by a Community Call Host days prior to the meeting.
+
+            Thank you and we look forward to hearing your input.
+
+            | Asset | Link        |
+            |:-----------|:------------|
+            | 🔗 Meeting Link & Password (*中文社区*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09
+            | 🎥 Meeting Recordings (*中文社区*) | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207
+            | Meeting time | Tuesday ${{ env.MEETINGDAY }} 19:00 PM China Standard Time (CST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=${{ env.MEETINGDAYNUM }}T04&p1=234)
+
+
+            欢迎使用中文留言或交流，此会议也全程使用中文沟通。 (This meeting will use Chinese to negotiate.)
+          pinned: false
+          close-previous: false
+          linked-comments: true

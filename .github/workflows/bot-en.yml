@@ -1,0 +1,45 @@
+# Every day at noon
+name: Weekly Community Call (EN)
+on:
+  schedule:
+    - cron: 0 12 * * 2
+
+jobs:
+  en-community-cal:
+    name: Community Call Raise
+    runs-on: ubuntu-latest
+    steps:
+      - name: Meeting date
+        run: |-
+          if [ $(expr $(date +%W) % 2) -eq 1 ]; then
+            echo "MEETINGDAY=$(date -d "+14 days" +"%b %d, %Y")" >> $GITHUB_ENV
+            echo "MEETINGDAYNUM=$(date -d "+14 days" +"%Y%m%d")" >> $GITHUB_ENV
+          else
+            exit 1
+          fi
+
+      - name: New Community call issue
+        uses: imjohnbo/issue-bot@v3
+        with:
+          labels: "comminity call"
+          title: ${{ env.MEETINGDAY }} Community Meeting Agenda
+          body: |-
+            KubeVela Community Meetings
+
+            Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in Q&A with the KubeVela community - all are welcome, and we encourage participation.
+
+            The purpose of this thread is to form a discussion amongst the KubeVela community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
+
+            The conversations in this thread will directly influence the meeting agenda for the community call on Tuesday ${{ env.MEETINGDAY }} 07:30 AM PST. The meeting agenda will be finalized by a Community Call Host days prior to the meeting.
+
+            Thank you and we look forward to hearing your input.
+
+            | Asset | Link        |
+            |:-----------|:------------|
+            | 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09
+            | 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs
+            | Meeting time | Tuesday ${{ env.MEETINGDAY }} 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=${{ env.MEETINGDAYNUM }}T0730&p1=234)
+
+          pinned: false
+          close-previous: false
+          linked-comments: true
