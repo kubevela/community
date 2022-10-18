@@ -40,6 +40,6 @@ jobs:
             | 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs
             | Meeting time | Tuesday ${{ env.MEETINGDAY }} 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=${{ env.MEETINGDAYNUM }}T0730&p1=234)
 
-          pinned: false
+          pinned: true
           close-previous: false
           linked-comments: true
