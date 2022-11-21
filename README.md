@@ -2,15 +2,20 @@
 
 Welcome to the KubeVela community. This is the starting point for becoming a contributor, improving the code and docs, giving presentations and all the goodness of helping out on the project. We are a friendly, collaborative group and look forward to working together.
 
-- [Introduction](#introduction)
-- [KubeVela authors](#kubevela-authors)
-- [Community engagements](#community-meetings)
-- [How can I get involved?](#how-can-i-get-involved)
-- [Questions and issues](#questions-and-issues)
+- [KubeVela Community](#kubevela-community)
+  - [Introduction](#introduction)
+  - [KubeVela authors](#kubevela-authors)
+  - [Communication](#communication)
+    - [Questions and issues](#questions-and-issues)
+    - [Community meetings](#community-meetings)
+    - [KubeVela blog](#kubevela-blog)
+  - [How can I get involved?](#how-can-i-get-involved)
+  - [Code of Conduct](#code-of-conduct)
 
 Other Documents
 
 - [Contributing to KubeVela](https://kubevela.io/docs/contributor/overview) - guidelines and advice on becoming a contributor
+- [Governance](GOVERNANCE.md) - describes the governance process of the repositories in the KubeVela community
 - [Community membership](community-membership.md) - describes the various responsibilities of contributor roles in the KubeVela community
 
 ## Introduction
@@ -49,12 +54,12 @@ Community members (members of the KubeVela GitHub org) can nominate themselves v
 
 To accomodate different timezones and languages, we schedule community calls at different times zone and use English and Chinese languages one by one.
 
-| Asset | Link        |
-|:-----------|:------------|
-| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09
-| 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs <br> **Videos:** https://www.youtube.com/channel/UCSCTHhGI5XJ0SEhDHVakPAA/videos
-| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406?pwd=OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09
-| 🎥 Meeting Recordings (*Chinese*) | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207
+| Asset                                 | Link                                                                                                                                                             |
+| :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09                                                                        |
+| 🎥 Meeting Recordings (*English*)      | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs <br> **Videos:** https://www.youtube.com/channel/UCSCTHhGI5XJ0SEhDHVakPAA/videos |
+| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406?pwd=OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09                                                                        |
+| 🎥 Meeting Recordings (*Chinese*)      | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207                                                                                            |
 
 
 **Upcoming meetings**: https://github.com/kubevela/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22comminity+call%22
