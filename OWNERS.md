@@ -19,7 +19,6 @@ Reviewers apply to all KubeVela repositories.
 - leason (Youzan) @leason00
 - Arhell (Independent) @Arhell
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
-- Mengnan Han (Independent) @HanMengnan
 - Leqi Cheng (Independent) @chengleqi
 - Zhongjian Wu (ecloud) @nuclearwu
 
@@ -33,7 +32,7 @@ Reviewers apply to all KubeVela repositories.
 - Jian Li (Alibaba) @leejanee (kubevela）
 - Lei Zhang (JD.com) @StevenLeiZhang (kubevela)
 - Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
-
+- Mengnan Han (Independent) @HanMengnan (kubevela)
 ## Maintainers
 
 Maintainers apply to all KubeVela repositories.
