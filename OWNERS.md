@@ -44,6 +44,7 @@ Maintainers apply to all KubeVela repositories.
 - Daniel Higuero (NAPPTIVE) @dhiguero
 - Da Yin (Alibaba) @Somefive
 - Jiahang Xu (China Merchants Bank) @jefree-cat
+- Anoop Gopalakrishnan (Guidewire) @anoop2811
 
 ## Emeritus Members
 
