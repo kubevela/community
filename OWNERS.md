@@ -20,7 +20,6 @@ Reviewers apply to all KubeVela repositories.
 - Arhell (Independent) @Arhell
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
 - Leqi Cheng (Independent) @chengleqi
-- Zhongjian Wu (ecloud) @nuclearwu
 - Wanliang Su (ecloud) @suwliang3
 
 ## Approvers
@@ -33,6 +32,8 @@ Reviewers apply to all KubeVela repositories.
 - Lei Zhang (JD.com) @StevenLeiZhang (kubevela)
 - Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
 - Mengnan Han (Independent) @HanMengnan (kubevela)
+- Zhongjian Wu (ecloud) @nuclearwu (kubevela)
+
 ## Maintainers
 
 Maintainers apply to all KubeVela repositories.
