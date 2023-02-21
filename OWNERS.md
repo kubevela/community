@@ -21,6 +21,7 @@ Reviewers apply to all KubeVela repositories.
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
 - Leqi Cheng (Independent) @chengleqi
 - Wanliang Su (ecloud) @suwliang3
+- ShunLi Feng (Anesec) @fengshunli
 
 ## Approvers
 
