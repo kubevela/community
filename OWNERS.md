@@ -22,6 +22,7 @@ Reviewers apply to all KubeVela repositories.
 - Leqi Cheng (Independent) @chengleqi
 - Wanliang Su (ecloud) @suwliang3
 - ShunLi Feng (Anesec) @fengshunli
+- Ramesh Krishna (Guidewire) @ramekris3163
 
 ## Approvers
 
