@@ -31,7 +31,6 @@ Reviewers apply to all KubeVela repositories.
 - Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
 - Jian Li (Alibaba) @leejanee (kubevela）
-- Lei Zhang (JD.com) @StevenLeiZhang (kubevela)
 - Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
 - Mengnan Han (Independent) @HanMengnan (kubevela)
 - Zhongjian Wu (ecloud) @nuclearwu (kubevela)
@@ -48,6 +47,7 @@ Maintainers apply to all KubeVela repositories.
 - Jiahang Xu (China Merchants Bank) @jefree-cat
 - Anoop Gopalakrishnan (Guidewire) @anoop2811
 - Fog Dong (Alibaba) @FogDong
+- Lei Zhang (JD.com) @StevenLeiZhang
 
 ## Emeritus Members
 
