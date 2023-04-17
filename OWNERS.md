@@ -7,7 +7,6 @@ Reviewers apply to all KubeVela repositories.
 - Herman Zhu (SHEIN) @Ghostbaby
 - chwetion (Harmony Cloud) @chwetion
 - Min Kim (Alibaba) @yue9944882
-- Xiaobin Zhu (Li Auto) @zxbyoyoyo
 - Reeta Singh (Twitter) @reetasingh
 - Wangwang (Youzan) @wangwang
 - Evan Li (Didi) @evanli18
@@ -34,6 +33,7 @@ Reviewers apply to all KubeVela repositories.
 - Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
 - Mengnan Han (Independent) @HanMengnan (kubevela)
 - Zhongjian Wu (ecloud) @nuclearwu (kubevela)
+- Xiaobing Zhu (Li Auto) @zxbyoyoyo (kubevela）
 
 ## Maintainers
 
