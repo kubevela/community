@@ -7,7 +7,6 @@ Reviewers apply to all KubeVela repositories.
 - Herman Zhu (SHEIN) @Ghostbaby
 - chwetion (Harmony Cloud) @chwetion
 - Min Kim (Alibaba) @yue9944882
-- Xiaobin Zhu (Li Auto) @zxbyoyoyo
 - Reeta Singh (Twitter) @reetasingh
 - Wangwang (Youzan) @wangwang
 - Evan Li (Didi) @evanli18
@@ -20,20 +19,22 @@ Reviewers apply to all KubeVela repositories.
 - Arhell (Independent) @Arhell
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
 - Leqi Cheng (Independent) @chengleqi
-- Zhongjian Wu (ecloud) @nuclearwu
 - Wanliang Su (ecloud) @suwliang3
+- ShunLi Feng (Anesec) @fengshunli
+- Ramesh Krishna (Guidewire) @ramekris3163
 
 ## Approvers
 
 - Zhongpei Qiao (Alibaba) @chivalryq (velad)
 - Xudong Guo (JiHu GitLab) @sunny0826 (kubevela.io)
-- Fog Dong (Alibaba) @FogDong (kubevela)
 - Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
 - Jian Li (Alibaba) @leejanee (kubevela）
-- Lei Zhang (JD.com) @StevenLeiZhang (kubevela)
 - Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
 - Mengnan Han (Independent) @HanMengnan (kubevela)
+- Zhongjian Wu (ecloud) @nuclearwu (kubevela)
+- Xiaobing Zhu (Li Auto) @zxbyoyoyo (kubevela）
+
 ## Maintainers
 
 Maintainers apply to all KubeVela repositories.
@@ -44,6 +45,9 @@ Maintainers apply to all KubeVela repositories.
 - Daniel Higuero (NAPPTIVE) @dhiguero
 - Da Yin (Alibaba) @Somefive
 - Jiahang Xu (China Merchants Bank) @jefree-cat
+- Anoop Gopalakrishnan (Guidewire) @anoop2811
+- Fog Dong (Alibaba) @FogDong
+- Lei Zhang (JD.com) @StevenLeiZhang
 
 ## Emeritus Members
 
