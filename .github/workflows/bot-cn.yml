@@ -36,7 +36,7 @@ jobs:
 
             | Asset | Link        |
             |:-----------|:------------|
-            | 🔗 Meeting Link & Password (*中文社区*) | **Zoom Call:** https://zoom.us/j/5706981108?pwd=N0lOVit3Titwb3B2VitZbHhKU3k1Zz09
+            | 🔗 Meeting Link & Password (*中文社区*) | **Zoom Call:** https://zoom.us/j/98479412361?pwd=MklLZGx3bkNzMlpYZ1cyZEJCdm9xUT09
             | 🎥 Meeting Recordings (*中文社区*) | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207
             | Meeting time | Tuesday ${{ env.MEETINGDAY }} 19:00 PM China Standard Time (CST)  - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=${{ env.MEETINGDAYNUM }}T04&p1=234)
 
