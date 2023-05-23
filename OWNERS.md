@@ -41,17 +41,17 @@ Reviewers apply to all KubeVela repositories.
 Maintainers apply to all KubeVela repositories.
 
 - Jianbo Sun (Alibaba) @wonderflow
-- Zhengxi Zhou (Independent) @zzxwill
 - Qingguo Zeng (Alibaba) @barnettZQG
 - Daniel Higuero (NAPPTIVE) @dhiguero
 - Da Yin (Alibaba) @Somefive
 - Jiahang Xu (China Merchants Bank) @jefree-cat
 - Anoop Gopalakrishnan (Guidewire) @anoop2811
-- Fog Dong (Alibaba) @FogDong
+- Fog Dong (BentoML) @FogDong
 - Lei Zhang (JD.com) @StevenLeiZhang
 
 ## Emeritus Members
 
+- @zzxwill
 - @hanxie-crypto
 - @hongchaodeng
 - @captainroy-hy
