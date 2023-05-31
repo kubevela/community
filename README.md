@@ -54,12 +54,14 @@ Community members (members of the KubeVela GitHub org) can nominate themselves v
 
 To accomodate different timezones and languages, we schedule community calls at different times zone and use English and Chinese languages one by one.
 
-| Asset                                 | Link                                                                                                                                                             |
-| :------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://us02web.zoom.us/j/88638962723?pwd=MVhCZnNub2t0R3BmMUNEWE9vendLUT09                                                                        |
-| 🎥 Meeting Recordings (*English*)      | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs <br> **Videos:** https://www.youtube.com/channel/UCSCTHhGI5XJ0SEhDHVakPAA/videos |
-| 🔗 Meeting Link & Password (*Chinese*) | **Zoom Call:** https://us02web.zoom.us/j/88035629406?pwd=OWp2TlNqM0NjUjhoTlF6eGZMNURuZz09                                                                        |
-| 🎥 Meeting Recordings (*Chinese*)      | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207                                                                                            |
+| Asset                                     | Link                                                                                                                                                             |
+|:------------------------------------------| :--------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🔗 Meeting Link & Password (*English*)    | **Zoom Call:** https://zoom.us/j/5706981108?pwd=N0lOVit3Titwb3B2VitZbHhKU3k1Zz09                                                                        |
+| 🎥 Meeting Recordings (*English*)         | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs <br> **Videos:** https://www.youtube.com/channel/UCq2hpE_h4JKA1GnAeuaqtww |
+| 🎥 Meeting Recordings (*English*, legacy) | https://www.youtube.com/channel/UCSCTHhGI5XJ0SEhDHVakPAA/videos |
+| 🔗 Meeting Link & Password (*Chinese*)    | **Zoom Call:** https://zoom.us/j/98479412361?pwd=MklLZGx3bkNzMlpYZ1cyZEJCdm9xUT09                                                                        |
+| 🎥 Meeting Recordings (*Chinese*)         | https://www.youtube.com/channel/UCq2hpE_h4JKA1GnAeuaqtww                                                                                            |
+| 🎥 Meeting Recordings (*Chinese*, legacy) | https://space.bilibili.com/180074935/channel/seriesdetail?sid=1842207                                                                                            |
 
 
 **Upcoming meetings**: https://github.com/kubevela/community/issues?q=is%3Aissue+is%3Aopen+label%3A%22comminity+call%22
