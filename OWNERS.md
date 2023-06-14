@@ -24,6 +24,7 @@ Reviewers apply to all KubeVela repositories.
 - Ramesh Krishna (Guidewire) @ramekris3163
 - Huihui Zhao (ecloud) @zhaohuiweixiao
 - XiaoWu Zhu (DaoCloud) @yyzxw
+- Junyu Liu (Independent) @iyear
 
 ## Approvers
 
