@@ -22,7 +22,6 @@ Reviewers apply to all KubeVela repositories.
 - Wanliang Su (ecloud) @suwliang3
 - ShunLi Feng (Anesec) @fengshunli
 - Ramesh Krishna (Guidewire) @ramekris3163
-- Huihui Zhao (ecloud) @zhaohuiweixiao
 - XiaoWu Zhu (DaoCloud) @yyzxw
 - Junyu Liu (Independent) @iyear
 
@@ -37,6 +36,7 @@ Reviewers apply to all KubeVela repositories.
 - Mengnan Han (Independent) @HanMengnan (kubevela)
 - Zhongjian Wu (ecloud) @nuclearwu (kubevela)
 - Xiaobing Zhu (Li Auto) @zxbyoyoyo (kubevela）
+- Huihui Zhao (ecloud) @zhaohuiweixiao(kubevela, catalog)
 
 ## Maintainers
 
