@@ -28,9 +28,7 @@ Reviewers apply to all KubeVela repositories.
 
 ## Approvers
 
-- Zhongpei Qiao (Alibaba) @chivalryq (velad)
 - Xudong Guo (JiHu GitLab) @sunny0826 (kubevela.io)
-- Yike Wang (Alibaba) @wangyikewxgm (catalog, kubevela)
 - Yang Song (Alibaba) @yangsoon (kubevela）
 - Jian Li (Alibaba) @leejanee (kubevela）
 - Charlie Chiang (Independent) @charlie0129 (kubevela, catalog, kube-trigger)
@@ -51,6 +49,8 @@ Maintainers apply to all KubeVela repositories.
 - Anoop Gopalakrishnan (Guidewire) @anoop2811
 - Fog Dong (BentoML) @FogDong
 - Lei Zhang (JD.com) @StevenLeiZhang
+- Yike Wang (Alibaba) @wangyikewxgm
+- Zhongpei Qiao (Alibaba) @chivalryq
 
 ## Emeritus Members
 
