@@ -19,7 +19,6 @@ Reviewers apply to all KubeVela repositories.
 - Arhell (Independent) @Arhell
 - Shijie Zhong (China Merchants Bank) @ZhongsJie96
 - Leqi Cheng (Independent) @chengleqi
-- Wanliang Su (ecloud) @suwliang3
 - ShunLi Feng (Anesec) @fengshunli
 - Ramesh Krishna (Guidewire) @ramekris3163
 - XiaoWu Zhu (DaoCloud) @yyzxw
@@ -36,6 +35,7 @@ Reviewers apply to all KubeVela repositories.
 - Zhongjian Wu (ecloud) @nuclearwu (kubevela)
 - Xiaobing Zhu (Li Auto) @zxbyoyoyo (kubevela）
 - Huihui Zhao (ecloud) @zhaohuiweixiao(kubevela, catalog)
+- Wanliang Su (ecloud) @suwliang3(kubevela, catalog)
 
 ## Maintainers
 
