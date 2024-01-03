@@ -2,7 +2,7 @@
 name: Weekly Community Call (EN)
 on:
   schedule:
-    - cron: 0 12 * * 2
+    - cron: 0 12 * * 4
 
 jobs:
   en-community-cal:
@@ -11,9 +11,9 @@ jobs:
     steps:
       - name: Meeting date
         run: |-
-          if [ $(expr $(date +%W) % 2) -eq 1 ]; then
-            echo "MEETINGDAY=$(date -d "+14 days" +"%b %d, %Y")" >> $GITHUB_ENV
-            echo "MEETINGDAYNUM=$(date -d "+14 days" +"%Y%m%d")" >> $GITHUB_ENV
+          if [ $(expr $(date +%W) % 3) -eq 0 ]; then
+            echo "MEETINGDAY=$(date -d "+21 days" +"%b %d, %Y")" >> $GITHUB_ENV
+            echo "MEETINGDAYNUM=$(date -d "+21 days" +"%Y%m%d")" >> $GITHUB_ENV
           else
             exit 1
           fi
