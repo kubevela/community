@@ -69,6 +69,8 @@ Maintainers apply to all KubeVela repositories.
 - @dhiguero
 - @Somefive
 - @jefree-cat
+- @chivalryq
+- @wangyikewxgm
 
 ## Bootstrap Contributors
 
