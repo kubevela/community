@@ -42,16 +42,9 @@ Reviewers apply to all KubeVela repositories.
 
 Maintainers apply to all KubeVela repositories.
 
-- Jianbo Sun (Alibaba) @wonderflow
-- Qingguo Zeng (Alibaba) @barnettZQG
-- Daniel Higuero (NAPPTIVE) @dhiguero
-- Da Yin (Alibaba) @Somefive
-- Jiahang Xu (China Merchants Bank) @jefree-cat
 - Anoop Gopalakrishnan (Guidewire) @anoop2811
 - Fog Dong (BentoML) @FogDong
 - Lei Zhang (JD.com) @StevenLeiZhang
-- Yike Wang (Alibaba) @wangyikewxgm
-- Zhongpei Qiao (Alibaba) @chivalryq
 
 ## Emeritus Members
 
@@ -71,6 +64,11 @@ Maintainers apply to all KubeVela repositories.
 - @mosesyou
 - @artursouza
 - @woshilanren11
+- @wonderflow
+- @barnettZQG
+- @dhiguero
+- @Somefive
+- @jefree-cat
 
 ## Bootstrap Contributors
 
@@ -90,4 +88,3 @@ Thank you for bootstrapping KubeVela at the very early stage!
 - @woshilanren11
 - @hanxie-crypto
 - @zzxwill
-
