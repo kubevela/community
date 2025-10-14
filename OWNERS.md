@@ -45,6 +45,7 @@ Maintainers apply to all KubeVela repositories.
 - Anoop Gopalakrishnan (Guidewire) @anoop2811
 - Fog Dong (BentoML) @FogDong
 - Lei Zhang (JD.com) @StevenLeiZhang
+- Jerome Guionnet (Guidewire) @jguionnet
 - Brian Kane (Guidewire) @briankane
 
 ## Emeritus Members
