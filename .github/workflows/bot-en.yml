@@ -13,19 +13,18 @@ jobs:
       - name: Check if meeting week
         id: check_week
         run: |-
+          # TEMPORARY: Always run for testing
+          echo "should_run=true" >> $GITHUB_OUTPUT
+
           # Reference date: October 16, 2024 (last meeting)
-          REFERENCE_DATE="2024-10-16"
-          TODAY=$(date +%Y-%m-%d)
-
-          # Calculate days since reference date
-          DAYS_DIFF=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$REFERENCE_DATE" +%s) ) / 86400 ))
-
-          # Check if it's exactly a multiple of 28 days (4 weeks) and today is Wednesday
-          if [ $(date +%u) -eq 3 ] && [ $(expr $DAYS_DIFF % 28) -eq 0 ] && [ $DAYS_DIFF -gt 0 ]; then
-            echo "should_run=true" >> $GITHUB_OUTPUT
-          else
-            echo "should_run=false" >> $GITHUB_OUTPUT
-          fi
+          # REFERENCE_DATE="2024-10-16"
+          # TODAY=$(date +%Y-%m-%d)
+          # DAYS_DIFF=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$REFERENCE_DATE" +%s) ) / 86400 ))
+          # if [ $(date +%u) -eq 3 ] && [ $(expr $DAYS_DIFF % 28) -eq 0 ] && [ $DAYS_DIFF -gt 0 ]; then
+          #   echo "should_run=true" >> $GITHUB_OUTPUT
+          # else
+          #   echo "should_run=false" >> $GITHUB_OUTPUT
+          # fi
 
       - name: Meeting date
         if: steps.check_week.outputs.should_run == 'true'
