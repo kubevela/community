@@ -13,16 +13,26 @@ jobs:
       - name: Check if meeting week
         id: check_week
         run: |-
-          # Reference date: October 16, 2024 (last meeting)
-          REFERENCE_DATE="2024-10-16"
+          # Check if today is Wednesday and tomorrow is the 3rd Thursday of the month
           TODAY=$(date +%Y-%m-%d)
+          TOMORROW=$(date -d "+1 day" +%Y-%m-%d)
 
-          # Calculate days since reference date
-          DAYS_DIFF=$(( ( $(date -d "$TODAY" +%s) - $(date -d "$REFERENCE_DATE" +%s) ) / 86400 ))
+          # Check if today is Wednesday
+          if [ $(date +%u) -eq 3 ]; then
+            # Check if tomorrow is Thursday
+            if [ $(date -d "$TOMORROW" +%u) -eq 4 ]; then
+              # Get the day of the month for tomorrow
+              DAY_OF_MONTH=$(date -d "$TOMORROW" +%d)
 
-          # Check if it's exactly a multiple of 28 days (4 weeks) and today is Wednesday
-          if [ $(date +%u) -eq 3 ] && [ $(expr $DAYS_DIFF % 28) -eq 0 ] && [ $DAYS_DIFF -gt 0 ]; then
-            echo "should_run=true" >> $GITHUB_OUTPUT
+              # Third Thursday is between 15th and 21st of the month
+              if [ $DAY_OF_MONTH -ge 15 ] && [ $DAY_OF_MONTH -le 21 ]; then
+                echo "should_run=true" >> $GITHUB_OUTPUT
+              else
+                echo "should_run=false" >> $GITHUB_OUTPUT
+              fi
+            else
+              echo "should_run=false" >> $GITHUB_OUTPUT
+            fi
           else
             echo "should_run=false" >> $GITHUB_OUTPUT
           fi
@@ -42,7 +52,7 @@ jobs:
           body: |-
             KubeVela Community Meetings
 
-            Every four weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in Q&A with the KubeVela community - all are welcome, and we encourage participation.
+            Every month on the third Thursday we host a community meeting to showcase new features, review upcoming milestones, and engage in Q&A with the KubeVela community - all are welcome, and we encourage participation.
 
             The purpose of this thread is to form a discussion amongst the KubeVela community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
 
