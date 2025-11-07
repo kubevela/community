@@ -2,23 +2,49 @@
 name: Weekly Community Call (EN)
 on:
   schedule:
-    - cron: 0 12 * * 4
+    - cron: 0 15 * * 3
+  workflow_dispatch:
 
 jobs:
   en-community-cal:
     name: Community Call Raise
     runs-on: ubuntu-latest
     steps:
-      - name: Meeting date
+      - name: Check if meeting week
+        id: check_week
         run: |-
-          if [ $(expr $(date +%W) % 3) -eq 0 ]; then
-            echo "MEETINGDAY=$(date -d "+21 days" +"%b %d, %Y")" >> $GITHUB_ENV
-            echo "MEETINGDAYNUM=$(date -d "+21 days" +"%Y%m%d")" >> $GITHUB_ENV
+          # Check if today is Wednesday and tomorrow is the 3rd Thursday of the month
+          TODAY=$(date +%Y-%m-%d)
+          TOMORROW=$(date -d "+1 day" +%Y-%m-%d)
+
+          # Check if today is Wednesday
+          if [ $(date +%u) -eq 3 ]; then
+            # Check if tomorrow is Thursday
+            if [ $(date -d "$TOMORROW" +%u) -eq 4 ]; then
+              # Get the day of the month for tomorrow
+              DAY_OF_MONTH=$(date -d "$TOMORROW" +%d)
+
+              # Third Thursday is between 15th and 21st of the month
+              if [ $DAY_OF_MONTH -ge 15 ] && [ $DAY_OF_MONTH -le 21 ]; then
+                echo "should_run=true" >> $GITHUB_OUTPUT
+              else
+                echo "should_run=false" >> $GITHUB_OUTPUT
+              fi
+            else
+              echo "should_run=false" >> $GITHUB_OUTPUT
+            fi
           else
-            exit 1
+            echo "should_run=false" >> $GITHUB_OUTPUT
           fi
 
+      - name: Meeting date
+        if: steps.check_week.outputs.should_run == 'true'
+        run: |-
+          echo "MEETINGDAY=$(date -d "+1 day" +"%b %d, %Y")" >> $GITHUB_ENV
+          echo "MEETINGDAYNUM=$(date -d "+1 day" +"%Y%m%d")" >> $GITHUB_ENV
+
       - name: New Community call issue
+        if: steps.check_week.outputs.should_run == 'true'
         uses: imjohnbo/issue-bot@v3
         with:
           labels: "comminity call"
@@ -26,11 +52,11 @@ jobs:
           body: |-
             KubeVela Community Meetings
 
-            Every two weeks we host a community meeting to showcase new features, review upcoming milestones, and engage in Q&A with the KubeVela community - all are welcome, and we encourage participation.
+            Every month on the third Thursday we host a community meeting to showcase new features, review upcoming milestones, and engage in Q&A with the KubeVela community - all are welcome, and we encourage participation.
 
             The purpose of this thread is to form a discussion amongst the KubeVela community on potential topics to highlight during the meeting. If you have a topic you wish to present or learn more about, please comment and be sure to include your name and a short description of the topic.
 
-            The conversations in this thread will directly influence the meeting agenda for the community call on Tuesday ${{ env.MEETINGDAY }} 07:30 AM PST. The meeting agenda will be finalized by a Community Call Host days prior to the meeting.
+            The conversations in this thread will directly influence the meeting agenda for the community call on Thursday ${{ env.MEETINGDAY }} 08:00 AM PST. The meeting agenda will be finalized by a Community Call Host days prior to the meeting.
 
             Thank you and we look forward to hearing your input.
 
@@ -38,7 +64,7 @@ jobs:
             |:-----------|:------------|
             | 🔗 Meeting Link & Password (*English*) | **Zoom Call:** https://zoom.us/j/5706981108?pwd=N0lOVit3Titwb3B2VitZbHhKU3k1Zz09
             | 🎥 Meeting Recordings (*English*) | https://docs.google.com/document/d/1nqdFEyULekyksFHtFvgvFAYE-0AMHKoS3RMnaKsarjs
-            | Meeting time | Tuesday ${{ env.MEETINGDAY }} 07:30 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=${{ env.MEETINGDAYNUM }}T0730&p1=234)
+            | Meeting time | Thursday ${{ env.MEETINGDAY }} 08:00 AM Pacific Time (PST) - [See it in your local time](https://www.timeanddate.com/worldclock/fixedtime.html?iso=${{ env.MEETINGDAYNUM }}T0800&p1=234)
 
           pinned: true
           close-previous: false
