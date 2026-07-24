@@ -25,6 +25,7 @@ Reviewers apply to all KubeVela repositories.
 - Junyu Liu (Independent) @iyear
 - Neeraj Gartia (Independent) @NeerajGartia21
 - Qi Cai (ecloud) @caiqi1111
+- Ayush Kumar (Guidewire) @roguepikachu
 
 ## Approvers
 
