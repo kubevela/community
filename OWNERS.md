@@ -26,6 +26,7 @@ Reviewers apply to all KubeVela repositories.
 - Neeraj Gartia (Independent) @NeerajGartia21
 - Qi Cai (ecloud) @caiqi1111
 - Jerrin Francis (Guidewire) @jerrinfrancis
+- Ayush Kumar (Guidewire) @roguepikachu
 
 ## Approvers
 
