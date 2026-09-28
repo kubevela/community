@@ -1,7 +1,17 @@
 name: Keepalive
+
+# GitHub disables scheduled workflows after 60 days without repository
+# activity, and later commits do not switch them back on. This job runs
+# daily and re-enables the scheduled workflows by name. Daily rather
+# than monthly so a workflow is never left disabled across the third
+# Wednesday, when bot-en.yml has to fire.
+#
+# It must name every workflow it protects. Re-enabling is per workflow,
+# so a workflow left out of this list stays disabled.
+
 on:
   schedule:
-    - cron: "0 12 1,15 * *"
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,4 +20,20 @@ jobs:
     permissions:
       actions: write
     steps:
-      - uses: liskin/gh-workflow-keepalive@v1
+      - name: Re-enable scheduled workflows
+        env:
+          GH_TOKEN: ${{ github.token }}
+        # Each workflow is enabled on its own. A failure on one is recorded
+        # and the loop carries on, so one bad call cannot leave the next
+        # workflow disabled. The step fails at the end if anything failed.
+        run: |
+          failed=0
+          for workflow in keepalive.yml bot-en.yml; do
+            if gh api -X PUT "repos/${GITHUB_REPOSITORY}/actions/workflows/${workflow}/enable"; then
+              echo "Enabled ${workflow}"
+            else
+              echo "::error::Failed to enable ${workflow}"
+              failed=1
+            fi
+          done
+          exit "${failed}"
