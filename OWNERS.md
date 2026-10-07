@@ -27,6 +27,7 @@ Reviewers apply to all KubeVela repositories.
 - Qi Cai (ecloud) @caiqi1111
 - Jerrin Francis (Guidewire) @jerrinfrancis
 - Ayush Kumar (Guidewire) @roguepikachu
+- Vishal Kumar (Guidewire) @vishal210893
 
 ## Approvers
 
