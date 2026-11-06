@@ -55,7 +55,7 @@ The process for handling any security vulnerabilities or concerns found in the K
 
 ## Releases
 
-A new KubeVela version is released once substantial new features, bug fixes, and/or security hardenings have been merged into the master branch, resulting in a non-fixed release schedule. Nevertheless, the KubeVela project aims for one major/minor version at least once every 2 months. Patch versions might be released more frequently. Only maintainers can do the releases. More details of the release cadence can be found [here](https://kubevela.net/docs/contributor/release-process).
+A new KubeVela version is released once substantial new features, bug fixes, and/or security hardenings have been merged into the master branch, resulting in a non-fixed release schedule. Nevertheless, the KubeVela project aims for one major/minor version at least once every 2 months. Patch versions might be released more frequently. Only maintainers can do the releases. More details of the release cadence can be found [here](https://kubevela.io/docs/contributor/release-process).
 
 ### Resources
 
