@@ -48,7 +48,7 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 
 Every week we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
 
-The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the CNCF Slack (`#kubevela-dev` channel) to discuss. The meeting agenda is finalized by a community call host.
+The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the CNCF Slack (`#kubevela` channel) to discuss. The meeting agenda is finalized by a community call host.
 
 Community members (members of the KubeVela GitHub org) can nominate themselves via an issue on the `kubevela/community` repository to be a community call host. Members become approved community call hosts when two or more existing community hosts approve their request.
 
