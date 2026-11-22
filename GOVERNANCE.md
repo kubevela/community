@@ -10,7 +10,7 @@ As a member of the KubeVela project, you represent the project and your fellow c
 
 ## Meetings
 
-- KubeVela currently hosts [weekly community meetings](https://github.com/kubevela/community#community-meetings) that are open to the public. 
+- KubeVela currently hosts [monthly community meetings](https://github.com/kubevela/community#community-meetings) that are open to the public. 
 - The meetings serve as a primary source to present, discuss, and review PRs that have been merged or are in the process of being merged to the projects under KubeVela org. 
 - It is strongly suggested and encouraged that offline reviews are undertaken to gauge the group's opinion on the proposed change before the meeting. Comments on the PRs will foster communication and might accelerate and ease the review process.
 - During meetings, priority will be given to PRs that appear to need discussion over those that can be handled offline. 

@@ -32,7 +32,7 @@ KubeVela is an open source project with an active development community. The pro
 
 ## Communication
 
-We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions, chat on IM or join the bi-weekly community calls.
+We want your contributions and suggestions! One of the easiest ways to contribute is to participate in discussions, chat on IM or join the monthly community call.
 
 ### Questions and issues
 
@@ -42,11 +42,11 @@ Reach out with any questions you may have and we'll make sure to answer them as 
 - [DingTalk Group](https://page.dingtalk.com/wow/dingtalk/act/en-home): `23310022` (*Chinese*)
 - Wechat Group (*Chinese*): Broker wechat to add you into the user group.
  
-  <img src="https://static.kubevela.net/images/barnett-wechat.jpg" width="200" />
+  <img src="https://kubevela.io/images/barnett-wechat.jpg" width="200" />
 
 ### Community meetings
 
-Every week we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
+On the third Thursday of every month, at 08:00 Pacific Time, we host a community meeting to showcase new features, review upcoming milestones, and engage in a Q&A. All are welcome!
 
 The next 3 upcoming community meetings are pinned as issues in this repository and can be used to enter in suggestions for the meeting. If you would like to talk about suggestions first use the CNCF Slack (`#kubevela` channel) to discuss. The meeting agenda is finalized by a community call host.
 
